@@ -6,15 +6,17 @@ body{
 
 header {
     background-color: #1f2937;
-    color: #fff;
+    color: #E5E7EB;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     padding: 10px 20px;
 }
 
 .logo{
     font-size: 24px;
+    color: #F9FAF8;
+    width: 50%;
 }
 
 nav ul{
@@ -36,9 +38,35 @@ nav li a {
 
 .body {
     background-color: #1f2937;
-    color: #F9FAF8;
+    color: #E5E7EB;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     padding: 50px 20px;
+}
+
+.left {
+    width: 50%;
+}
+
+.left h1{
+    font-size: 48px;
+    font-weight: 800px;
+    color: #F9FAF8;
+}
+
+.left p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.left button {
+    background-color: #3882F6;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 18px;
+    margin-top: 20px;
+    color: #FFF;
+    font-weight: 600;
 }
