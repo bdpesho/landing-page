@@ -137,7 +137,7 @@ nav li a {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 3% 14%;
+    padding: 10px 20px;
     margin: 60px;
 }
 
@@ -148,6 +148,7 @@ nav li a {
     background-color: #E27408;
     width: 100%;
     border-radius: 8px;
+    max-width: 1400px;
 }
 
 
@@ -164,7 +165,7 @@ nav li a {
 
 footer {
     background-color: #00bb48;
-    padding: 1% 5%;
+    padding: 10px 20px;
 }
 
 .footer-text{
