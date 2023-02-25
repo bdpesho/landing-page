@@ -76,26 +76,26 @@ nav li a {
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
-  }
+}
   
   .images-title {
     font-size: 36px;
     font-weight: bold;
     margin-top: 40px;
     margin-bottom: 20px;
-  }
+}
   
   .image-container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-  }
+}
   
   .image-box {
     margin: 10px;
     text-align: center;
-  }
+}
   
   .image {
     width: 275px;
@@ -104,17 +104,17 @@ nav li a {
     background-position: center;
     border-radius: 15px;
     overflow: hidden;
-  }
+}
   
   .image-text {
     margin-top: 10px;
     font-size: 18px;
-  }
+}
 
   .quote-section {
     background-color: #E5E7EB;
     padding: 100px;
-  }
+}
 
   .quote {
     text-align: center;
@@ -123,10 +123,28 @@ nav li a {
     font-weight: lighter;
     max-width: 900px;
     margin: 0 auto;
-  }
+}
 
   .quote-from {
     text-align: right;
     max-width: 900px;
     margin: 0 auto;
-  }
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 14%;
+    margin: 60px;
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E27408;
+    width: 100%;
+    border-radius: 8px;
+}
+
