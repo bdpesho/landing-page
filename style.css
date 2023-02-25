@@ -129,13 +129,15 @@ nav li a {
     text-align: right;
     max-width: 900px;
     margin: 0 auto;
+    font-weight: 800;
+    font-size: 24px;
 }
 
 .cta {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 2% 14%;
+    padding: 3% 14%;
     margin: 60px;
 }
 
@@ -148,3 +150,14 @@ nav li a {
     border-radius: 8px;
 }
 
+
+
+.button2 {
+    background-color: #00bb48;
+    border: 2px solid #FFF;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 18px;
+    color: #FFF;
+    font-weight: 600;
+}
