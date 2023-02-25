@@ -161,3 +161,13 @@ nav li a {
     color: #FFF;
     font-weight: 600;
 }
+
+footer {
+    background-color: #00bb48;
+    padding: 1% 5%;
+}
+
+.footer-text{
+    display: flex;
+    justify-content: center;
+}
